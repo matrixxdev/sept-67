@@ -9,7 +9,7 @@
 ╚══════╝╚══════╝╚═╝        ╚═╝
 ```
 
-> **SEPT** is a fully working scripting language built around the **SEPTEM-67 number system** (base 67). Every number can be expressed in classic decimal *or* as a compact base-67 literal. The language uses Unicode symbols for keywords, making it look like it fell out of a alien spaceship.
+> **SEPT** is a fully working scripting language by Benjamin built around the **SEPTEM-67 number system** (base 67). Every number can be expressed in classic decimal *or* as a compact base-67 literal. The language uses Unicode symbols for keywords, making it look like it fell out of a alien spaceship. Re
 
 ---
 
@@ -22,7 +22,7 @@ python3 src/sept.py examples/01_hello.sept
 ```
 
 > **Requirements:** Python 3.8+ — no dependencies, no install needed.
-> When you've cloned it, unzip the Zip Folder and drag & drop the Files into the sept-67 Folder, and delete the Zip Folder.
+> When you've cloned it, unzip the Zip Folder and drag & drop the Files into the sept-67 Folder, and delete the Zip Folder. Please use the last Command only if you've doned this Step.
 
 ---
 
