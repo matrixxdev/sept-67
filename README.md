@@ -16,7 +16,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/benjaminoliverblanke/sept-67
+git clone https://github.com/matrixxdev/sept-67
 cd sept-67
 python3 src/sept.py examples/01_hello.sept
 ```
