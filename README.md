@@ -22,6 +22,7 @@ python3 src/sept.py examples/01_hello.sept
 ```
 
 > **Requirements:** Python 3.8+ — no dependencies, no install needed.
+> When you've cloned it, unzip the Zip Folder and drag & drop the Files into the sept-67 Folder, and delete the Zip Folder.
 
 ---
 
